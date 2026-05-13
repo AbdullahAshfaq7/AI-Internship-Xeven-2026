@@ -1,44 +1,40 @@
-# AI Internship Xeven 2026
-# Day 01 — Environment Setup
+# Day01 — Environment Setup
 
----
+--- 
 
-## What is AI?
+Installed Python 3.11+ from python.org
+Installed VS Code + Python extension
+Installed UV package manager via curl command
+Ran source $HOME/.local/bin/env to activate UV in PATH
+Installed Python 3.11 via uv python install 3.11
+Created virtual environment with uv venv --python 3.11
 
-**Artificial Intelligence (AI)** is when computers are programmed to think and
-learn like humans. Instead of following fixed rules, AI systems learn from
-data and improve over time.
+**Project Structure**
 
-Think of it like teaching a child:
-- You show them thousands of pictures of cats
-- They start recognizing cats on their own
-- AI works the exact same way
+Created folders ai-internship-xeven-2026/Day01/ in Finder
+Opened project in VS Code via code .
+Created Day01/app.py with personalized greeting
+Ran python3 day01/app.py successfully
 
-### Real World Examples
+**Git & GitHub**
 
-- **Netflix** recommends shows based on what you watched
-- **Gmail** automatically filters spam from your inbox
-- **Doctors** use AI to detect diseases from X-rays faster
-- **Banks** use AI to detect fraud before you even notice
+Initialized Git with git init
+Created GitHub repo ai-internship-xeven-2026 (public)
+Connected via HTTPS remote
+Created .gitignore with 4 rules + .DS_Store
+Created README.md in root with all Day 1 tasks
+Made first commit and pushed to GitHub
+Removed .DS_Store from GitHub
+Moved README.md into Day01/ folder
 
-### Why Does AI Matter?
+**Documentation**
 
-- Saves time by automating repetitive tasks
-- Reduces human errors in critical decisions
-- Solves problems at a scale humans simply cannot
+Added all cells — markdown + code
+Added beginner-friendly AI explanation to README
+Added research comparison table
+Created LEARNINGS.md
 
----
+**Communication**
 
-## Role of an AI Engineer in 2026
-
-An **AI Engineer** is the person who builds and maintains these intelligent
-systems. Their job includes:
-
-- **Collecting data** — gathering information for the AI to learn from
-- **Training models** — teaching the AI using that data
-- **Testing** — making sure the AI makes correct decisions
-- **Deploying** — making the AI available in real apps and products
-- **Maintaining** — monitoring and improving the AI over time
-
-In simple terms, if AI is the brain, the AI Engineer is the one who
-builds, trains, and takes care of that brain.
+Sent progress report email to lead
+Set up professional GitHub bio.
