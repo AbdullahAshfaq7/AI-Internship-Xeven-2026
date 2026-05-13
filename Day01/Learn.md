@@ -1,4 +1,4 @@
-# Day01 - AI Fundamentals & Environment Setup (Theory + Research)
+# Day01 - AI Fundamentals (Theory + Research)
 ---
 
 ### What is Artificial Intelligence?
