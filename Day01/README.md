@@ -29,11 +29,8 @@ Moved README.md into Day01/ folder
 
 **Documentation**
 
-Added all cells — markdown + code
-Added beginner-friendly AI explanation to README
-Added research comparison table
 Created LEARNINGS.md
-
+Created README.md
 **Communication**
 
 Sent progress report email to lead
