@@ -80,3 +80,10 @@ print(f"Count of Ronaldo: {count_Ronaldo}")
 # Using index to find the index of a student
 index_Abdullah = students.index("Abdullah")
 print(f"Index of Abdullah: {index_Abdullah}")
+
+
+# --- LIST INFO ---
+
+print(f"\nTotal students: {len(students)}")
+print(f"Index of Ramos: {students.index('Ramos')}")
+print(f"Ronaldo appears:    {students.count('Ronaldo')} time(s)")
