@@ -18,13 +18,13 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 
 ## Weekly Progress
 
-### Week 1 — Python Foundations (Days 1-7)
+- **Week 1** — Python Foundations (Days 1-7)
 
-### Week 2 — Data Structures & Functions (Days 8-14)
+- **Week 2**— Data Structures & Functions (Days 8-14)
 
-### Week 3 — LLMs & LangChain (Days 15-21)
+- **Week 3** — LLMs & LangChain (Days 15-21)
 
-### Week 4 — RAG & Production Systems (Days 22-28)
+-**Week 4**— RAG & Production Systems (Days 22-28)
 
 ## Tech Stack
 
