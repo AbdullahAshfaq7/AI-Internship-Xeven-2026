@@ -1,5 +1,6 @@
 # AI Internship — Xeven Solutions 2026
 
+---
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Track](https://img.shields.io/badge/Track-NLP%20%26%20LangChain-orange)
 ![Progress](https://img.shields.io/badge/Progress-Week%201%20Complete-green)
@@ -9,8 +10,6 @@
 This repository documents my 30-day AI Engineering Internship at Xeven Solutions 2026.
 The program focuses on NLP and LangChain, covering Python fundamentals to production RAG systems.
 
----
-
 ## Trainee
 
 - **Name:** Abdullah Ashfaq
@@ -18,7 +17,6 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 - **Track:** NLP & LangChain Specialization
 - **Duration:** 30 Days
 
----
 
 ## Weekly Progress
 
