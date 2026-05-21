@@ -1,6 +1,5 @@
 # AI Internship — Xeven Solutions 2026
 
----
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Track](https://img.shields.io/badge/Track-NLP%20%26%20LangChain-orange)
 ![Progress](https://img.shields.io/badge/Progress-Week%201%20Complete-green)
@@ -17,7 +16,6 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 - **Track:** NLP & LangChain Specialization
 - **Duration:** 30 Days
 
-
 ## Weekly Progress
 
 ### Week 1 — Python Foundations (Days 1-7)
@@ -28,16 +26,12 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 
 ### Week 4 — RAG & Production Systems (Days 22-28)
 
----
-
 ## Tech Stack
 
 - **Language:** Python 3.11
 - **Tools:** VS Code, Git, GitHub
 - **Package Manager:** UV
 - **Environment:** Virtual Environment (.venv)
-
----
 
 ## Key Projects Built So Far
 
@@ -47,13 +41,9 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 - **Login System** — multi-condition validator using logical operators
 - **Grade Calculator** — classification system with letter grades and feedback
 
----
-
 ## Git Branch Convention
 
 Each day has its own branch
-
----
 
 ## How to Run
 
