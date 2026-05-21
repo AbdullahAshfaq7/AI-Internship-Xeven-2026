@@ -13,8 +13,6 @@ This week focused on:
 - Introductory Machine Learning concepts
 - Debugging and documentation
 
----
-
 ## Projects Built
 
 - Login Validation System
@@ -22,8 +20,6 @@ This week focused on:
 - Decision Tree Simulator
 - List Management Utilities
 - Beginner ML Logic Simulations
-
----
 
 ## Skills Learned
 
@@ -35,16 +31,12 @@ This week focused on:
 - Git and GitHub workflow
 - Technical documentation
 
----
-
 ## Research Platforms Used
 
 - ChatGPT
 - Gemini
 - Claude
 - Technical articles and documentation
-
----
 
 ## Professional Growth
 
@@ -55,8 +47,6 @@ Week 1 improved:
 - Documentation habits
 - GitHub organization
 - Confidence in explaining technical concepts
-
----
 
 ## Week 1 Status
 
