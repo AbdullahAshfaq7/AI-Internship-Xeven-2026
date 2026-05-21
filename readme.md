@@ -20,19 +20,6 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 
 ---
 
-## Repository Structure
-
-AI-Internship-Xeven-2026/
-├── Day01/          # AI Fundamentals & Environment Setup
-├── Day02/          # Python Variables & Data Types
-├── Day03/          # Conditional Statements & Logic
-├── Day04/          # Operators & Type Conversion
-├── Day05/          # Introduction to ML Concepts
-├── Day06/          # Python Lists
-└── Day07/          # Week 1 Assessment (in progress)
-
----
-
 ## Weekly Progress
 
 ### Week 1 — Python Foundations (Days 1-7)
@@ -66,7 +53,7 @@ AI-Internship-Xeven-2026/
 
 ## Git Branch Convention
 
-Each day has its own branch:
+Each day has its own branch
 
 ---
 
