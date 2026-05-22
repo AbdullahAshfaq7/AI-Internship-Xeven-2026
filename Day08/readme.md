@@ -8,7 +8,7 @@
 | `shopping_cart.py`         |Shopping cart with receipt and discount     |
 | `data_cleaner.py`          |5-step data cleaning pipeline               |
 | `LEARNINGS.md`             |Detailed research notes and key takeaways   |
-| `README.md`                |This file                                   |
+| `README.md`                |This file.                                  |
 
 ## What I Built
 
