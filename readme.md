@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Track](https://img.shields.io/badge/Track-NLP%20%26%20LangChain-orange)
-![Progress](https://img.shields.io/badge/Progress-Week%201%20Complete-green)
+![Progress](https://img.shields.io/badge/Progress-Week%202%20In%20Progress-yellow)
+![Goal](https://img.shields.io/badge/Goal-RAG%20%26%20Production-purple)
 
 ## About
 
