@@ -14,9 +14,9 @@ cities = [
     ("Lahore", 31.5497, 74.3436),
     ("Karachi", 24.8607, 67.0011),
     ("Islamabad", 33.6844, 73.0479),
+    ("Peshawar", 34.0151, 71.5249),
+    ("Quetta", 30.1798, 66.9750),
 ]
-
-# --- FUNCTIONS ---
 
 """ 
 Calculate distance between two coordinate tuples.
@@ -24,6 +24,7 @@ Uses Euclidean distance formula.
 """
 
 
+# --- FUNCTIONS ---
 def calculate_distance(coord1, coord2):
 
     # Unpack both tuples
