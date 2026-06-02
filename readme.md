@@ -2,19 +2,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Track](https://img.shields.io/badge/Track-NLP%20%7C%20LangChain%20%7C%20RAG%20%7C%20FastAPI-teal)
-![Goal](https://img.shields.io/badge/Goal-RAG%20Production-purple)
+![Goal](https://img.shields.io/badge/Goal-Production%20AI%20Engineer-purple)
 ![Progress](https://img.shields.io/badge/Progress-Week%202-yellow)
----
-
-![NLP](https://img.shields.io/badge/NLP-LLMs%20%26%20Prompt%20Engineering-orange)
-![LangChain](https://img.shields.io/badge/LangChain-Agents%20%26%20Orchestration-success)
-![RAG](https://img.shields.io/badge/RAG-Vector%20Search%20%26%20Retrieval-purple)
-![FastAPI](https://img.shields.io/badge/FastAPI-Production%20APIs-teal)
 
 ## About
 
 This repository documents my 30-day AI Engineering Internship at Xeven Solutions 2026.
-The program focuses on NLP and LangChain, covering Python fundamentals to production RAG systems.
+The program focuses on NLP and LangChain, covering Python fundamentals to production RAG systems and FastAPI's.
 
 ## Trainee
 
