@@ -1,7 +1,7 @@
 # AI Internship — Xeven Solutions 2026
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![1.](https://img.shields.io/badge/Track-NLP%20%26%20LangChain-orange)
+![1.](https://img.shields.io/badge/Track-NLP%20%26%20LangChain%20%26%20RAG-Systems-orange)
 ![2.](https://img.shields.io/badge/Goal-RAG%20%26%20Production-purple)
 ![Progress](https://img.shields.io/badge/Progress-Week%202%20In%20Progress-yellow)
 
