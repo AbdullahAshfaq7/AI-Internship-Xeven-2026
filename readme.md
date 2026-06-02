@@ -4,6 +4,14 @@
 ![Track](https://img.shields.io/badge/Track-NLP%20%7C%20LangChain%20%7C%20RAG-orange)
 ![Goal](https://img.shields.io/badge/Goal-RAG%20Production-purple)
 ![Progress](https://img.shields.io/badge/Progress-Week%202-yellow)
+---
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![NLP](https://img.shields.io/badge/NLP-LLMs%20%26%20Prompt%20Engineering-orange)
+![LangChain](https://img.shields.io/badge/LangChain-Agents%20%26%20Orchestration-success)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search%20%26%20Retrieval-purple)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production%20APIs-teal)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## About
 
