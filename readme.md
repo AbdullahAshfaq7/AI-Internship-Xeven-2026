@@ -20,7 +20,7 @@ The program focuses on NLP and LangChain, covering Python fundamentals to produc
 
 - **Name:** Abdullah Ashfaq
 - **Program:** Xeven AI Engineer Internship 2026
-- **Track:** NLP, LangChain Specialization, Rag System Production
+- **Track:** Rag System Production,LangChain Specialization, NLP & FastAPI's
 - **Duration:** 30 Days
 
 ## Weekly Progress
