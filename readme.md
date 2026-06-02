@@ -11,7 +11,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Agents%20%26%20Orchestration-success)
 ![RAG](https://img.shields.io/badge/RAG-Vector%20Search%20%26%20Retrieval-purple)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production%20APIs-teal)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## About
 
