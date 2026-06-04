@@ -49,7 +49,7 @@ Each day has its own branch
 ## How to Run
 
 ```bash
-# Clone the repo
+# Clone the repos
 git clone https://github.com/AbdullahAshfaq7/AI-Internship-Xeven-2026.git
 
 # Go into any day
